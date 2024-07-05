@@ -20,7 +20,6 @@ Welcome to Melos Music! This project is a web application that allows users to e
     - [Running the Application](#running-the-application)
   - [Contributing](#contributing)
   - [License](#license)
-  - [Contact](#contact)
 
 ## Overview
 
